@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/popup/static/css/main.7abb12e6.css",
+    "main.js": "/popup/static/js/main.c1c83ce4.js",
+    "static/js/787.84e42f0c.chunk.js": "/popup/static/js/787.84e42f0c.chunk.js",
+    "static/media/Itinerary creation 1.png": "/popup/static/media/Itinerary creation 1.9ac13f5d3d7baf0613d1.png",
+    "static/media/Rectangle 1.png": "/popup/static/media/Rectangle 1.b44f4e5baa73e94dedd9.png",
+    "index.html": "/popup/index.html",
+    "main.7abb12e6.css.map": "/popup/static/css/main.7abb12e6.css.map",
+    "main.c1c83ce4.js.map": "/popup/static/js/main.c1c83ce4.js.map",
+    "787.84e42f0c.chunk.js.map": "/popup/static/js/787.84e42f0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7abb12e6.css",
+    "static/js/main.c1c83ce4.js"
+  ]
+}
